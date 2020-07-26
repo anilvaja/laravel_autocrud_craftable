@@ -1,0 +1,6 @@
+echo "# laravel_autocrud_craftable" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/anilvaja/laravel_autocrud_craftable.git
+git push -u origin master
